@@ -1,0 +1,23 @@
+body {
+  font-size: 12px;
+  font-family: helvetica, sans-serif;
+  color: black;
+}
+
+#moreCats {
+  background-color: black;
+  color:white;
+  font-size: 14px;
+  border: 1px solid #fff;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#catDisplay {
+  font-size: 22px;
+  color: green;
+  
+}
