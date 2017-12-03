@@ -19,5 +19,10 @@ h3 {
 #catDisplay {
   font-size: 22px;
   color: green;
-  
+
+}
+
+.container {
+  width: 50%;
+  margin: auto;
 }
